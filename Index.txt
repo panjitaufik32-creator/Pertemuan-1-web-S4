@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<titile>Pertemuan 1 Main </title>
+</head>
+<body>
+
+	<h1> Heading 1 </h1>
+	<p> Ini Paragraf di Main </p>
+	<p>Ini Paragraf Baru </p>
+
+
+</body>
